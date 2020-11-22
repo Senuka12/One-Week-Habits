@@ -1,0 +1,97 @@
+{
+    "listData": {
+        "type": "object",
+        "properties": {
+            "config": {
+                "backgroundImage": "https://upliftefficiency.somizu.tech/other/color.webp",
+                "title": "One Week Habits",
+                "skillIcon": "https://upliftefficiency.somizu.tech/other/icon.webp",
+                "hintText": "Alexa, try the Early Bird Week"
+            },
+            "list": {
+                "listItems": [
+                    {
+                        "picture": {
+                            "type": "uri",
+                            "value": "https://i.ibb.co/QbCCTt0/output-onlinepngtools-22.png"
+                        },
+                        "date_of_birth": {
+                            "type": "literal",
+                            "value": "Wake up earlier"
+                        },
+                        "humanLabel": {
+                            "xml:lang": "en",
+                            "type": "literal",
+                            "value": "Early Bird Week"
+                        },
+                        "titlel": {
+                            "xml:lang": "en",
+                            "type": "literal",
+                            "value": "One Week Habits"
+                        }
+                    },
+                    {
+                        "picture": {
+                            "type": "uri",
+                            "value": "https://i.ibb.co/17Dh5wR/output-onlinepngtools-23.png"
+                        },
+                        "date_of_birth": {
+                            "type": "literal",
+                            "value": "Spend time with the family"
+                        },
+                        "humanLabel": {
+                            "xml:lang": "en",
+                            "type": "literal",
+                            "value": "Family Week"
+                        },
+                        "titlel": {
+                            "xml:lang": "en",
+                            "type": "literal",
+                            "value": "One Week Habits"
+                        }
+                    },
+                    {
+                        "picture": {
+                            "type": "uri",
+                            "value": "https://i.ibb.co/kBwkL45/output-onlinepngtools-24.png"
+                        },
+                        "date_of_birth": {
+                            "type": "literal",
+                            "value": "Listen to music everyday"
+                        },
+                        "humanLabel": {
+                            "xml:lang": "en",
+                            "type": "literal",
+                            "value": "Music Week"
+                        },
+                        "titlel": {
+                            "xml:lang": "en",
+                            "type": "literal",
+                            "value": "One Week Habits"
+                        }
+                    },
+                    {
+                        "picture": {
+                            "type": "uri",
+                            "value": "https://i.ibb.co/3fJs4gB/output-onlinepngtools-21.png"
+                        },
+                        "date_of_birth": {
+                            "type": "literal",
+                            "value": "Clean the house"
+                        },
+                        "humanLabel": {
+                            "xml:lang": "en",
+                            "type": "literal",
+                            "value": "Tidy Up Week"
+                        },
+                        "titlel": {
+                            "xml:lang": "en",
+                            "type": "literal",
+                            "value": "One Week Habits"
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}
