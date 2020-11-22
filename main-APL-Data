@@ -1,0 +1,12 @@
+{
+    "launchData": {
+        "properties": {
+            "headerTitle": "One Week Habits",
+            "mainText": "Welcome to One Week Habits",
+            "hintString": "Alexa, try the Early Bird Week",
+            "logoImage": "https://upliftefficiency.somizu.tech/other/icon.webp",
+            "backgroundImage": "https://upliftefficiency.somizu.tech/other/color.webp",
+            "backgroundOpacity": "0.7"
+        }
+    }
+}
